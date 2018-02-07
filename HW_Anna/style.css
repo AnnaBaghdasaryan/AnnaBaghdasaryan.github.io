@@ -1,0 +1,26 @@
+body{
+	width: 100%;
+	height: 100%;
+}
+#left {
+    float: left;
+    width: 45%;
+    height: 800px;
+    background-color: orange;
+}
+
+div#right {
+    float: right;
+    width: 55%;
+    height: 800px;
+    background-color:grey;
+}
+
+#title{
+       text-align: center;
+}
+
+.u_list{
+    color: black;
+    font-size: 20px;
+}
